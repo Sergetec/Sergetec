@@ -9,7 +9,7 @@ Skills: C++/soon JS
 - 📫 How to reach me: Discord: Sergetec#6803 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sergetec)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/serge.tec/)  
+[<img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github' height='40'>](https://github.com/Sergetec)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png' alt='instagram' height='40'>](https://www.instagram.com/serge.tec/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergetec&show_icons=true)  
 
