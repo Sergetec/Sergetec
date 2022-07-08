@@ -2,7 +2,7 @@
 #### *Beginner Software Engineer, curious of learning more*
 Hi, my name is Sergiu from Romania and I am currently a high school student. I really like programming, it's the subject I would like to continue and make a career in. At the moment I'm just having fun, but in the future, it will definitely be more serious.
 
-Skills: C++/soon JS
+Skills: C++ / JS
 
 - 🔭 I’m currently working on useful programs and scripts 
 - 🌱 I’m currently learning C++ and JS
