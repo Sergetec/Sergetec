@@ -5,7 +5,7 @@ Hi, my name is Sergiu from Romania and I am currently a high school student. I r
 Skills: C++/soon JS
 
 - 🔭 I’m currently working on useful programs and scripts 
-- 🌱 I’m currently learning C++ and soon JS 
+- 🌱 I’m currently learning C++ and JS
 - 📫 How to reach me: Discord: Sergetec#6803 
 
 
