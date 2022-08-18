@@ -7,6 +7,7 @@ Skills: C++ / JS
 - 🔭 I’m currently working on some discord bots
 - 🌱 I’m currently learning C++ and JS
 - 📫 How to reach me:
+
 • via Discord - Sergetec#6803
 • via Instagram - serge.tec
 
