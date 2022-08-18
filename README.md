@@ -9,6 +9,7 @@ Skills: C++ / JS
 - 📫 How to reach me:
 
 • via Discord - Sergetec#6803
+
 • via Instagram - serge.tec
 
 
