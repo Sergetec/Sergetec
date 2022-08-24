@@ -6,6 +6,7 @@ Skills: C++ / JS
 
 - 🔭 I’m currently working on some discord bots
 - 🌱 I’m currently learning C++ and JS
+- ⚒️ Tools that I use: CLion, WebStorm, VS Code
 - 📫 How to reach me:
   - via **Discord** - Sergetec#6803
   - via **Instagram** - serge.tec
