@@ -12,8 +12,8 @@ Skills: C++ / JS
   - via **Instagram** - serge.tec
 
 
-[<img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github' height='40'>](https://github.com/Sergetec)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png' alt='instagram' height='40'>](https://www.instagram.com/serge.tec/)  
+[<img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github' height='40'>](https://github.com/Sergetec)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png' alt='instagram' height='40'>](https://www.instagram.com/serge.tec/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergetec&show_icons=true)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergetec)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/Sergetec)  
+![Profile views](https://gpvc.arturio.dev/Sergetec)
