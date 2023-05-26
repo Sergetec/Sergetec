@@ -1,5 +1,5 @@
 <h1 align = "center"> Hi there 👋, I'm Sergiu </h1>
-Hi, my name is Sergiu from **Romania** and I am currently a high school student. I really like programming, it's the subject I would like to continue and make a career in. At the moment I'm just having fun, but in the future, it will definitely be more serious.
+Beginner developer from Romania, currently a high school student. At the moment I'm just having fun, but in the future, it will definitely be more serious.
 
 Skills: C++ / JS
 
