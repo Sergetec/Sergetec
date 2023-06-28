@@ -13,8 +13,8 @@ Skills: C++ / JS
 
 [<img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github' height='40'>](https://github.com/Sergetec)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png' alt='instagram' height='40'>](https://www.instagram.com/serge.tec/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sergetec)](https://github.com/ryo-ma/github-profile-trophy)
+[![Discord Presence](https://lanyard.cnrad.dev/api/333664530582208513)](https://discord.com/users/333664530582208513)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergetec)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sergetec&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Profile views](https://gpvc.arturio.dev/Sergetec)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergetec&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
