@@ -3,11 +3,12 @@
 ### 📃 About me
 Beginner developer from `Romania`, currently a high school student.
 
-Skills: C++ / JS
+- 🔭 I’m currently working at [Wrdl Discord Bot](https://github.com/Sergetec/Wrdl-Bot)
 
-- 🔭 I’m currently working on some discord bots
-- 🌱 I’m currently learning C++ and JS
-- ⚒️ Tools that I use: CLion, WebStorm, VS Code
+- 🌱 I’m currently learning **C++** and **JS**
+
+- ⚒️ Tools that I use: **CLion**, **WebStorm**, **VS Code**
+
 - 📫 How to reach me:
   - via **Discord**: @sergetec
   - via **Instagram**: @serge.tec
