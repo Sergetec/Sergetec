@@ -1,20 +1,31 @@
 <h1 align = "center"> Hi there 👋, I'm Sergiu </h1>
 
-### 📃 About me
+# 📃 About me
 Beginner developer from `Romania`, currently a high school student.
 
-- 🔭 I’m currently working at [Wrdl Discord Bot](https://github.com/Sergetec/Wrdl-Bot)
+---
+
+- 🔭 I’m currently working at **[Wrdl Discord Bot](https://github.com/Sergetec/Wrdl-Bot)**
 
 - 🌱 I’m currently learning **C++** and **JS**
-
-- ⚒️ Tools that I use: **CLion**, **WebStorm**, **VS Code**
 
 - 📫 How to reach me:
   - via **Discord**: @sergetec
   - via **Instagram**: @serge.tec
+ 
+[<img src='https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png' alt='discord' height='40'/>](https://discord.com/users/333664530582208513)&nbsp;
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png' alt='instagram' height='45'/>](https://www.instagram.com/serge.tec/)
 
+---
 
-[<img src='https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png' alt='discord' height='40'>](https://discord.com/users/333664530582208513)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png' alt='instagram' height='40'>](https://www.instagram.com/serge.tec/)
+# ⚒️ Languages and Tools I use
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPLUSPLUS" alt="CPLUSPLUS" width="40" height="40"/>&nbsp;
+<img src="https://pics.freeicons.io/uploads/icons/png/7547080541536207303-512.png" title="CLION" alt="CLION" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1024px-WebStorm_Icon.svg.png" title="WEBSTORM" alt="WEBSTORM" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>
+
+---
 
 # 🔥 My statistics:
 
