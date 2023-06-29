@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="150" src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif"> </img>
+  <img height="160" src="https://bestanimations.com/media/computers/1641871444funny-computer-animated-gif-35.gif"> </img>
 </p>
 <h1 align = "center"> Hi there 👋, I'm Sergiu </h1>
 
