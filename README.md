@@ -10,7 +10,7 @@ Beginner developer from `Romania`, currently a high school student.
 
 - 🔭 I’m currently working on **[Wrdl Discord Bot](https://github.com/Sergetec/Wrdl-Bot)**
 
-- 🌱 I’m currently learning **C++** and **JS**
+- 🌱 I’m currently learning **C++**, **JS** and **Java**
 
 - 📫 How to reach me:
   - via **Discord**: @sergetec
