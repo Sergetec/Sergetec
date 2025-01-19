@@ -4,7 +4,7 @@
 <h1 align = "center"> Hi there 👋, I'm Sergiu </h1>
 
 # 📃 About me
-Beginner developer from `Romania`, currently a high school student.
+Beginner developer from `Romania`, currently studying computer engineering.
 
 ---
 
