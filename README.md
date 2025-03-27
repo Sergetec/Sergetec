@@ -13,9 +13,6 @@ Beginner software developer from `Romania`, currently studying computer engineer
 - 🌱 I’m currently learning **C++**, **JS** and **Java**
 
 - 📫 How to reach me: sergetec2005@gmail.com
- 
-[<img src='https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png' alt='discord' height='40'/>](https://discord.com/users/333664530582208513)&nbsp;
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png' alt='instagram' height='45'/>](https://www.instagram.com/serge.tec/)
 
 ---
 
