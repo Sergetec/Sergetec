@@ -8,7 +8,7 @@ Beginner software developer from `Romania`, currently studying computer engineer
 
 ---
 
-- 🔭 I’m currently working on **[Wrdl Discord Bot](https://github.com/Sergetec/Wrdl-Bot)**
+- 🔭 I’m currently working on **[Inventory Manager](https://github.com/Sergetec/Inventory_Manager_API)**
 
 - 🌱 I’m currently learning **C++**, **JS** and **Java**
 
