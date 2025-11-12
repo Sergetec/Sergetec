@@ -8,7 +8,7 @@ Beginner web developer from `Romania`, currently studying computer engineering a
 
 ---
 
-- 🔭 I’m currently working on **[Inventory Manager](https://github.com/Sergetec/Inventory_Manager_API)**
+- 🔭 I’m currently working on **[MCS App](https://github.com/Sergetec/mcs-app)**
 
 - 🌱 I’m currently learning **C++**, **JavaScript**, **TypeScript** and **Java**
 
