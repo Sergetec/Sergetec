@@ -10,7 +10,7 @@ Beginner web developer from `Romania`, currently studying computer engineering a
 
 - 🔭 I’m currently working on **[MCS App](https://github.com/Sergetec/mcs-app)**
 
-- 🌱 I’m currently learning **C++**, **JavaScript**, **TypeScript** and **Java**
+- 🌱 I’m currently learning **C++**, **JavaScript**, **TypeScript**, **Java** and **Flutter**
 
 - 📫 How to reach me: sergetec2005@gmail.com
 
