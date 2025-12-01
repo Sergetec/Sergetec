@@ -29,8 +29,8 @@ Beginner web developer from `Romania`, currently studying computer engineering a
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="DOCKER" alt="DOCKER" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NODEJS" alt="NODEJS" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NEXTJS" alt="NEXTJS" width="40" height="40"/>
-<img src="https://pics.freeicons.io/uploads/icons/png/7547080541536207303-512.png" title="CLION" alt="CLION" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1024px-WebStorm_Icon.svg.png" title="WEBSTORM" alt="WEBSTORM" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="CLION" alt="CLION" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WEBSTORM" alt="WEBSTORM" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>
 
 
