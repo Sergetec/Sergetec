@@ -1,6 +1,3 @@
-<p align="center">
-  <img height="160" src="https://bestanimations.com/media/computers/1641871444funny-computer-animated-gif-35.gif"> </img>
-</p>
 <h1 align = "center"> Hi there 👋, I'm Sergiu </h1>
 
 # 📃 About me
@@ -39,5 +36,3 @@ Beginner web developer from `Romania`, currently studying computer engineering a
 # 🔥 My statistics:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sergetec&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergetec&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
