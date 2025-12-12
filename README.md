@@ -9,7 +9,7 @@ Beginner web developer from `Romania`, currently studying computer engineering a
 
 - 🌱 I’m currently learning **C++**, **JavaScript**, **TypeScript**, **Java** and **Flutter**
 
-- 📫 How to reach me: sergetec2005@gmail.com
+- 📫 How to reach me: sergiulefter2005@gmail.com
 
 ---
 
