@@ -1,7 +1,7 @@
 <h1 align = "center"> Hi there 👋, I'm Sergiu </h1>
 
 # 📃 About me
-Beginner web developer from `Romania`, currently studying computer engineering at Politehnica University of Bucharest.
+Web and Mobile developer from `Romania`, currently studying Computer Engineering at Politehnica University of Bucharest.
 
 ---
 
@@ -29,10 +29,3 @@ Beginner web developer from `Romania`, currently studying computer engineering a
 <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="CLION" alt="CLION" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WEBSTORM" alt="WEBSTORM" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>
-
-
----
-
-# 🔥 My statistics:
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sergetec&theme=dark&hide_border=true)](https://git.io/streak-stats)
