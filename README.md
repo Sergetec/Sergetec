@@ -9,7 +9,7 @@ Web and Mobile developer from `Romania`, currently studying Computer Engineering
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sergiulefter/)
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/sergiulefter/)**
 
 ---
 
