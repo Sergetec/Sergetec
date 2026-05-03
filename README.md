@@ -1,18 +1,11 @@
 <h1 align = "center"> Hi there 👋, I'm Sergiu </h1>
 
 # 📃 About me
-Web and Mobile developer from `Romania`, currently studying Computer Engineering at Politehnica University of Bucharest.
-
----
-
-
-- 🌱 I’m currently learning **Flutter**
-
+Full Stack Developer, currently studying Computer Engineering at Politehnica University of Bucharest.
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/sergiulefter/)**
 
----
-
 # ⚒️ Languages and Tools I use
+<img src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original.svg" title="TS" alt="TS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPLUSPLUS" alt="CPLUSPLUS" width="40" height="40"/>&nbsp;
@@ -26,5 +19,4 @@ Web and Mobile developer from `Romania`, currently studying Computer Engineering
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NODEJS" alt="NODEJS" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NEXTJS" alt="NEXTJS" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="CLION" alt="CLION" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WEBSTORM" alt="WEBSTORM" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>
