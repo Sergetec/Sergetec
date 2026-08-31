@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-* 💼 Working at **Seacortex** as a **Full-Stack Developer**, primarily building mobile applications
+* 💼 Working at [Seacortex](https://seacortex.com) as a **Full-Stack Developer**, primarily building mobile applications
 * 🎓 Studying **Computer Engineering** at the **Politehnica University of Bucharest**
 * 📱 I enjoy building products across the stack, with a particular interest in **mobile development**
 * 🚀 I like taking ideas from concept to production and working across frontend, backend, databases, and deployment
