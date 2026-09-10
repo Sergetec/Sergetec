@@ -14,7 +14,7 @@
 
 - 💼 Software Engineer at [SeaCortex](https://seacortex.com), primarily building mobile applications with **React Native, Expo, and TypeScript**
 - 🎓 Studying **Computer Engineering** at **Politehnica University of Bucharest**
-- 📱 Working on mobile performance, background location tracking, offline data, and API integrations
+- 📱 Focused on building reliable mobile applications, with attention to performance, user experience, and backend integration
 - 🛠️ Comfortable working across mobile, web, backend services, and deployment
 
 ## 🛠️ Tech Stack
